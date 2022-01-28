@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "titulo": "Atelier Lleida Centro",
+        "ciudad": "Lleida",
+        "srcimg": "restaurante_1.png",
+        "alt": "Atelier Lleida Centro",
+        "texto": "Atelier situada en el centro de Lleida",
+        "coords": "@41.618341,0.6024253,14z/"
+    },
+    {
+        "id": 2,
+        "titulo": "Atelier Lleida Mariola",
+        "ciudad": "Lleida",
+        "srcimg": "restaurante_2.png",
+        "alt": "Atelier Lleida Mariola",
+        "texto": "Atelier situada en el barrio de Mariola",
+        "coords": "@41.6125202,0.5837655,15z"
+    },
+    {
+        "id": 3,
+        "titulo": "Atelier Barcelona Centro",
+        "ciudad": "Barcelona",
+        "srcimg": "restaurante_3.png",
+        "alt": "Atelier Barcelona Centro",
+        "texto": "Atelier situada en el centro de Barcelona",
+        "coords": "@41.3947319,2.1107898,13.01z"
+    },
+    {
+        "id": 4,
+        "titulo": "Atelier Alicante Centro",
+        "ciudad": "Alicante",
+        "srcimg": "restaurante_4.png",
+        "alt": "Atelier Alicante Centro",
+        "texto": "Atelier situada en el centro de Alicante",
+        "coords": "@38.3454797,-0.4897719,18.24z"
+    },
+    {
+        "id": 5,
+        "titulo": "Atelier premium",
+        "ciudad": "Tarragona",
+        "srcimg": "restaurante_5.png",
+        "alt": "Atelier premium",
+        "texto": "Nuestar Atelier más especial situada en la ciudad de Tarragona",
+        "coords": "@41.1167394,1.2449149,17z"
+    },
+    {
+        "id": 6,
+        "titulo": "Atelier Eixample Tarragona",
+        "ciudad": "Tarragona",
+        "srcimg": "restaurante_6.png",
+        "alt": "Atelier Eixample Tarragona",
+        "texto": "Atelier situada en el barrio de l'Eixample en Tarragona",
+        "coords": "@41.1153147,1.2496759,17z"
+    }
+]

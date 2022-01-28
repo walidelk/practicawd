@@ -1,0 +1,82 @@
+{
+    "cafes": [
+        {
+            "id": 1,
+            "nombre": "Café solo",
+            "alt": "Café solo",
+            "precio": 1.2,
+            "imagen": "cafe_1.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Café con leche",
+            "alt": "Café con leche",
+            "precio": 1.4,
+            "imagen": "cafe_2.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Café irlandés",
+            "alt": "Café irlandés",
+            "precio": 1.5,
+            "imagen": "cafe_3.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Café Atelier",
+            "alt": "Café Atelier",
+            "precio": 2,
+            "imagen": "cafe_4.jpg"
+        }
+    ],
+    "bolleria": [
+        {
+            "id": 5,
+            "nombre": "Croissant",
+            "alt": "Croissant",
+            "precio": 1,
+            "imagen": "croissant_1.jpg",
+            "apiId": 14608
+        },
+        {
+            "id": 6,
+            "nombre": "Croissant con chocolate",
+            "alt": "Croissant con chocolate",
+            "precio": 1.5,
+            "imagen": "croissant_2.jpg",
+            "apiId": 313295
+        },
+        {
+            "id": 7,
+            "nombre": "Croissant con jamón york y queso",
+            "alt": "Croissant con jamón york y queso",
+            "precio": 1.4,
+            "imagen": "croissant_3.jpg",
+            "apiId": 343561
+        },
+        {
+            "id": 8,
+            "nombre": "Galletas Atelier",
+            "alt": "Galletas Atelier",
+            "precio": 2,
+            "imagen": "biscuit_1.jpg",
+            "apiId": 244390
+        }
+    ],
+    "promociones": [
+        {
+            "id": 9,
+            "nombre": "Café + Croissant",
+            "alt": "Café + Croissant",
+            "precio": 3,
+            "imagen": "combo_2.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Combo Atelier",
+            "alt": "Combo Atelier",
+            "precio": 3.75,
+            "imagen": "combo_3.jpg"
+        }
+    ]
+}
